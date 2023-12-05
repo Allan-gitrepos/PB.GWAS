@@ -1,0 +1,15 @@
+Package: PB.GWAS
+Title: A Shiny package for GWAS analysis
+Version: 0.0.0.9000
+Authors@R: person('ALLAN', 'VICTOR', email = 'albertoogy@gmail.com', role = c('cre', 'aut'))
+Description: A Shiny package for GWAS analysis.
+License: MIT + file LICENSE
+Imports: 
+    config (>= 0.3.2),
+    golem (>= 0.4.1),
+    shiny (>= 1.7.5.1)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+URL: https://github.com/Allan-gitrepos
+BugReports: https://github.com/Allan-gitrepos/issues
